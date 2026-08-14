@@ -1,0 +1,1 @@
+ALTER TABLE public.stray_activities ADD COLUMN IF NOT EXISTS location_description TEXT;
